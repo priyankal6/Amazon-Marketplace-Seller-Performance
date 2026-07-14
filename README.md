@@ -1,2 +1,18 @@
-# Amazon-Marketplace-Seller-Performance
-An end-to-end Power BI dashboard analyzing Amazon-style marketplace performance, covering seller insights, customer behavior, product analysis, and delivery operations.
+## Project Overview
+
+This project analyzes an Amazon-style marketplace dataset to provide insights into seller performance, product profitability, customer behavior, and delivery operations using Power BI.
+The dashboard helps business users monitor KPIs and make data-driven decisions through interactive visualizations.
+
+# Tools Used
+- Power BI
+- Power Query
+- DAX
+- Microsoft Excel
+
+# Dashboard Pages
+- Executive Overview
+- Seller Performance
+- Product & Category Analysis
+- Customer Experience & Retention
+- Delivery & Operations
+- Executive Insights & Recommendations
