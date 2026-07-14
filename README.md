@@ -20,6 +20,9 @@ The dashboard helps business users monitor KPIs and make data-driven decisions t
 # Dataset used
 <a href = https://github.com/priyankal6/Amazon-Marketplace-Seller-Performance/blob/main/Amazon_Style_Marketplace_Dataset_Package.zip/a> Dataset
 
+# Dashboard
+<a href = https://github.com/priyankal6/Amazon-Marketplace-Seller-Performance/blob/main/Amazon.pbix/a> Dashboard
+
 # Key Insights
 - Identified top-performing sellers based on revenue and profitability.
 - Analyzed product categories with the highest sales and profit.
