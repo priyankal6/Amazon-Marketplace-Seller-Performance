@@ -30,7 +30,7 @@ The dashboard helps business users monitor KPIs and make data-driven decisions t
 - Monitored delivery performance and shipping costs.
 - Highlighted operational improvement opportunities through executive recommendations.
 
-3 Business Recommendations
+ # Business Recommendations
 - Increase inventory for high-demand product categories.
 - Improve delivery performance in regions with frequent delays.
 - Focus on customer retention through loyalty initiatives.
